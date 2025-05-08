@@ -1,7 +1,6 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=nkhj02ca
 - **演出活动名称**: 2024 SUPER JUNIOR <SUPER SHOW SPIN-OFF : Halftime> - in HONG KONG
-- **演出活动开始时间**: 
+- **演出活动开始时间**:
   - 2024-09-06 20:00:00 (周五)
   - 2024-09-07 19:00:00 (周六)
 - **演出活动地点**: AsiaWorld-Arena, Hong Kong
@@ -15,7 +14,7 @@
   - CAT2 | HKD$1088
   - CAT3 | HKD$888
 - **门票类型**: 实体票
-- **实体票寄送**: 
+- **实体票寄送**:
   - 2024年8月5日起陆续寄出
   - 需提供准确地址和电话信息
   - 可通过"Fantopia-我的门票"跟踪寄送状态
@@ -33,4 +32,3 @@
   - 需遵守场馆规定
   - 门票不可转让
   - 不设退换
-```

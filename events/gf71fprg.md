@@ -1,31 +1,29 @@
-```markdown
-- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=gf71fprg  
-- **演出活动名称**: 2024 (G)I-DLE WORLD TOUR [iDOL] IN MACAU  
-- **演出活动开始时间**:  
-  - 2024.10.25 (FRI) 20:00  
-  - 2024.10.26 (SAT) 19:00  
-  - 2024.10.27 (SUN) 18:00  
-- **演出活动地点**: GALAXY ARENA 澳門銀河綜藝館  
-- **门票公开售票时间**: 2024-07-28 18:00 (CST)  
-- **门票会员优先售票时间**: 2024-07-28 12:00 ~ 14:00 (CST) (NEVERLAND會員預購)  
-- **门票价格 (未包含服务费)**:  
-  - VIP L/R STANDING | HKD/MOP 1,899 (含SOUND CHECK PARTY)  
-  - PLATINUM SEATED | HKD/MOP 1,899  
-  - CAT 1 SEATED | HKD/MOP 1,599  
-  - CAT 2 SEATED | HKD/MOP 1,299  
-  - CAT 3 SEATED | HKD/MOP 999  
-  - CAT 4 SEATED | HKD/MOP 699  
-  - RESTRICTED VIEW ZONE  
-- **门票类型**: 未明确说明（需根据实际购票确认）  
-- **是否有会员优先购票**: 是 (NEVERLAND會員預購)  
-- **限购数量**:  
-  - 会员预购: 每ID限4张（每场2张）  
-  - 公开售票: 每账户每场限4张  
-- **年龄限制**:  
-  - VIP站区禁止孕妇及身高<140cm或<12岁儿童入场  
-- **其他信息 (注意事项)**:  
-  - 座位区为对号入座，RESTRICTED VIEW可能视线受阻  
-  - 会员预购票不可转让  
-  - 门票不设退换  
-  - 若超额购票，主办方有权取消交易  
-```
+- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=gf71fprg
+- **演出活动名称**: 2024 (G)I-DLE WORLD TOUR [iDOL] IN MACAU
+- **演出活动开始时间**:
+  - 2024.10.25 (FRI) 20:00
+  - 2024.10.26 (SAT) 19:00
+  - 2024.10.27 (SUN) 18:00
+- **演出活动地点**: GALAXY ARENA 澳門銀河綜藝館
+- **门票公开售票时间**: 2024-07-28 18:00 (CST)
+- **门票会员优先售票时间**: 2024-07-28 12:00 ~ 14:00 (CST) (NEVERLAND會員預購)
+- **门票价格 (未包含服务费)**:
+  - VIP L/R STANDING | HKD/MOP 1,899 (含SOUND CHECK PARTY)
+  - PLATINUM SEATED | HKD/MOP 1,899
+  - CAT 1 SEATED | HKD/MOP 1,599
+  - CAT 2 SEATED | HKD/MOP 1,299
+  - CAT 3 SEATED | HKD/MOP 999
+  - CAT 4 SEATED | HKD/MOP 699
+  - RESTRICTED VIEW ZONE
+- **门票类型**: 未明确说明（需根据实际购票确认）
+- **是否有会员优先购票**: 是 (NEVERLAND會員預購)
+- **限购数量**:
+  - 会员预购: 每ID限4张（每场2张）
+  - 公开售票: 每账户每场限4张
+- **年龄限制**:
+  - VIP站区禁止孕妇及身高<140cm或<12岁儿童入场
+- **其他信息 (注意事项)**:
+  - 座位区为对号入座，RESTRICTED VIEW可能视线受阻
+  - 会员预购票不可转让
+  - 门票不设退换
+  - 若超额购票，主办方有权取消交易

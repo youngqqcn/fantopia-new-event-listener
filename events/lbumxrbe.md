@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=lbumxrbe
 - **演出活动名称**: Mark's 1st Album 'The Firstfruit' Macau Signing Event
 - **演出活动开始时间**: 2025-04-27 00:00:00
@@ -24,4 +23,3 @@
   - 由于中选者自身不了解注意事项和工作人员指示而造成的损失和事故，主办方不承担责任
   - 根据现场情况可能作出之变动，请听从现场工作人员的要求和安排
   - 本活动有根据地区和场地的情况进行部分更改或取消的可能，以及因不可避免的情况，请各位粉丝予以谅解
-```

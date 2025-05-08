@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=62vtkupa
 - **演出活动名称**：TOMORROW X TOGETHER WORLD TOUR - EP. 2 - IN MACAU
 - **演出活动开始时间**：2025-05-09 20:00:00
@@ -27,4 +26,3 @@
   - 采用动态电子门票，需登录账户出示二维码入场
   - 售出门票不设退换
   - 同一会员ID购票超4张可能被取消交易
-```

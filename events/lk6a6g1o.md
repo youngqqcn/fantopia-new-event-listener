@@ -1,10 +1,9 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=lk6a6g1o
 - **演出活动名称**: 2025 &TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' IN HONG KONG
 - **演出活动开始时间**: 2025/07/26 18:00 (SAT)
 - **演出活动地点**: AsiaWorld-Expo, Runway 11
 - **门票公开售票时间**: 2025/05/08 15:00 (Local time)
-- **阵容**: 
+- **阵容**:
   - &TEAM（隶属YX LABELS）
   - 成员：EJ、FUMA、K、NICHOLAS、YUMA、JO、HARUA、TAKI、MAKI
 - **门票价格(未包含服务费)**:
@@ -31,4 +30,3 @@
   - 门票遗失/损坏不补发
   - 需遵守场馆规定，违规可能被拒入场
   - 门票不退不换
-```

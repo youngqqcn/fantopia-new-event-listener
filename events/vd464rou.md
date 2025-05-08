@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**：https://www.fantopia.io/events-tickets?eventsKey=vd464rou
 - **演出活动名称**："CHASE" Zhe Han Zhang Fan Meeting 2024 in MELBOURNE
 - **演出活动开始时间**：2024-07-26 19:00:00
@@ -16,4 +15,3 @@
 - **其他信息(注意事项)**：
   - 座位區皆為劃位座席，請依票面座位號入座
   - 售出門票不設退換，如有特殊情況將酌情處理
-```

@@ -1,7 +1,6 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=9ksej0k1
 - **演出活动名称**: 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN MACAU
-- **演出活动开始时间**: 
+- **演出活动开始时间**:
   - 2023/10/13 (FRI) 20:00
   - 2023/10/14 (SAT) 19:00
 - **演出活动地点**: 中國澳門｜銀河綜藝館 (Galaxy Arena)
@@ -28,4 +27,3 @@
   3. 座位区均为对号入座
   4. 主办方保留拒绝不符合条件者入场的权利
   5. 注册会员不保证购票成功
-```

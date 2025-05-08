@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=an3h3e1x
 - **演出活动名称**：2024 WayV CONCERT [ON THE Way] IN HONG KONG
 - **演出活动开始时间**：2025/01/04 19:30
@@ -28,4 +27,3 @@
   - 门票遗失/损坏不补发
   - 须遵守场馆规定，违规可能被拒入场
   - 门票不退不换
-```

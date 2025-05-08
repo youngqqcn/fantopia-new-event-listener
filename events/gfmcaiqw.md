@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**：https://www.fantopia.io/events-tickets?eventsKey=gfmcaiqw
 - **演出活动名称**：Jeff Chang Ultimate Continuum World Tour Concert in Macau, Chinese New Year Special
 - **演出活动开始时间**：2025-02-01 19:30:00
@@ -21,4 +20,3 @@
   - 每张门票只供一人进场。入场时必需持有有效门票
   - 本次活动采用动态电子门票，入场时需登录Fantopia账户并出示电子门票二维码。纸质打印或截图的电子门票二维码将无法入场
   - 售出门票不设退换
-```

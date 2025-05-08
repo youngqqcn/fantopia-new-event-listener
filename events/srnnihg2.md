@@ -1,7 +1,6 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=srnnihg2
 - **演出活动名称**: 2024 ENHYPEN WORLD TOUR 'FATE' IN MACAU
-- **演出活动开始时间**: 
+- **演出活动开始时间**:
   - 2024/01/26 (FRI) 20:00
   - 2024/01/27 (SAT) 19:30
   - 2024/01/28 (SUN) 18:30
@@ -17,7 +16,7 @@
   - MOP 799 CAT 4 SEATED
   - MOP 1,199 CAT 3 SEATED RV (限制视野区)
   - MOP 799 CAT 4 SEATED RV (限制视野区)
-- **限购数量**: 
+- **限购数量**:
   - 公开售票每人限购4张
   - 会员预购每ID限购4张
 - **注意事项**:
@@ -27,4 +26,3 @@
   - 限制视野区可能无法看到完整舞台
   - 会员优先购票不支持转赠
   - 若发现同一会员ID购票超过4张，主办方有权取消交易
-```

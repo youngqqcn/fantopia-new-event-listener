@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=anxdurz7
 - **演出活动名称**：2024 WayV CONCERT [ON THE Way] IN MACAU
 - **演出活动开始时间**：2025/02/15 19:30 (Local Time)
@@ -28,4 +27,3 @@
   - 仅接受动态电子票二维码入场（不接受打印/截图）
   - 门票不设退换
   - 同一会员ID超额购票可能被取消交易
-```

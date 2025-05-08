@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=w7ckmbvq
 - **演出活动名称**：2025 NCT WISH ASIA TOUR LOG in HONG KONG
 - **演出活动开始时间**：
@@ -14,7 +13,7 @@
 - **阵容**：
   - NCT WISH（由兩位韓國成員Sion和Jaehee，以及四位日本成員Riku、Yushi、Ryo和Sakuya組成）
 - **门票价格(未包含服务费)**：
-  - VIP | HKD$1,799 ※LAMINATE & LANYARD 
+  - VIP | HKD$1,799 ※LAMINATE & LANYARD
   - CAT1 HKD$1,399
   - CAT2 HKD$1,099
   - CAT3 HKD$799
@@ -36,4 +35,3 @@
   - 演出门票如有遗失、损毁、涂污或被窃，主办及售票机构概不补发或更换门票，亦不会承担任何责任，敬请小心保管
   - 持票人必须遵守亚洲国际博览馆之条例及规则，否则可能会被拒进场并不获退款
   - 售出门票不设退换
-```

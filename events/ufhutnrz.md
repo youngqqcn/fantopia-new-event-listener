@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=ufhutnrz
 - **演出活动名称**：THE DREAM REBORN 世界巡迴演唱會 2024 香港站- DPR
 - **演出活动开始时间**：2024-12-22 19:00:00
@@ -24,4 +23,3 @@
   - 每張門票只供一人進場
   - 門票遺失/損毀不補發
   - 售出門票不設退換
-```

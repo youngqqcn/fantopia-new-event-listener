@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=8pl3frb3
 - **演出活动名称**: LEE JUNHO 1st FANMEETING TOUR <JUNHO THE MOMENT 2023> IN MACAU
 - **演出活动开始时间**: 2023/11/04 18:00
@@ -11,7 +10,7 @@
     - 演出后15人团体合影
     - 艺人小卡1张
   - SEND OFF PACKAGE: MOP$1788
-    - 含内场座票1张  
+    - 含内场座票1张
     - 欢送道别活动
     - 艺人小卡1张
   - SIGNED POSTER PACKAGE: MOP$1688
@@ -19,7 +18,7 @@
     - 亲笔签名海报1张
     - 艺人小卡1张
   - FLOOR: MOP$1588
-  - A区: MOP$1488  
+  - A区: MOP$1488
   - B区: MOP$988
   - C区: MOP$688
 - **门票类型**: 实体票
@@ -31,4 +30,3 @@
   - 禁止携带违禁物品
   - 工作人员保留安全检查权利
   - 错过报到时间不补福利
-```

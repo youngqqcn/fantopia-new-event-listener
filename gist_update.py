@@ -29,7 +29,7 @@ def update_gist(content: str):
         headers=HEADERS,
         json={
             "description": "fantopia活动信息收集",
-            "files": {"event_info_collection.txt": {"content": content}},
+            "files": {"event_info_collection.md": {"content": content}},
         },
     )
 

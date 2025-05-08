@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=6uk0sjj5
 - **演出活动名称**：Fansland WEB3 EDM Festival
 - **演出活动开始时间**：2024-11-12 19:00:00
@@ -19,4 +18,3 @@
 - **线上全球直播**: TON生态项目将进行线上直播
 - **其他信息(注意事项)**:
   - 更多详情请关注：https://x.com/fansland_io
-```

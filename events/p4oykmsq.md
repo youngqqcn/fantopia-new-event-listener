@@ -1,4 +1,3 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=p4oykmsq
 - **演出活动名称**: 2024 LEE JOON GI ASIA TOUR <JOONGI‘S DAY: FESTIVAL> IN MACAU
 - **演出活动开始时间**: 2024/12/28 18:00 (SAT)
@@ -33,6 +32,3 @@
   - 门票遗失不补
   - 不设退换
   - 需遵守场馆规定
-``` 
-
-（注：根据原始信息整理，已去除重复内容并保留关键数据，福利信息合并呈现，时间格式统一为YYYY/MM/DD，货币单位统一标注）

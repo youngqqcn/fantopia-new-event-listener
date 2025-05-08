@@ -1,7 +1,6 @@
-```markdown
 - **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=lcjxj8e5
 - **演出活动名称**: Stray Kids World Tour <dominATE MACAU>
-- **演出活动开始时间**: 
+- **演出活动开始时间**:
   - 2024.11.29 (FRI) 20:00 (CST)
   - 2024.11.30 (SAT) 19:00 (CST)
 - **演出活动地点**: GALAXY ARENA 澳門銀河綜藝館
@@ -11,7 +10,7 @@
   - VIP PACKAGE | MOP 2099
     * ONE (1) TOP PRICE RESERVED STANDING TICKET
     * EXCLUSIVE ACCESS TO SOUND CHECK PARTY
-    * VIP POST CARD SET 
+    * VIP POST CARD SET
     * VIP LAMINATE & LANYARD
     * EARLY ENTRY
   - STANDING | MOP 1,699
@@ -23,10 +22,10 @@
   - RESTRICTED VIEW ZONE
 - **服务费**: 20 MOP 每張門票
 - **是否有会员优先购票**: 是
-- **限购数量**: 
+- **限购数量**:
   - LN Presale会员预购每笔ID限购2张票券
   - 公开售票每人每交易限购4张票券
-- **是否有年龄限制**: 
+- **是否有年龄限制**:
   - VIP站区: 身高未满140公分或未满12岁孩童禁止入场
 - **其他信息(注意事项)**:
   - 座位区皆为划位座席，请依票面座位号入座
@@ -35,4 +34,3 @@
   - VIP站区票面有序号，请依票面序号排整队入场
   - 本场活动门票不支持转赠
   - 售出门票不设退换
-```
