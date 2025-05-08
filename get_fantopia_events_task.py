@@ -1,17 +1,16 @@
 import datetime
 import json
+import logging
 import os
 import re
+import time
 
 import html2text
+import schedule
 from playwright.sync_api import sync_playwright
 
 from deepseek import call_deepseek
 from gist_update import get_gist_content, update_gist
-
-TARGET_API_KEYWORD = (
-    "/fanapiWeb/eventsInfo/getEventsInfoPage"  # 根据你的 API 路径关键词调整
-)
 
 # 初始化 HTML 转 Markdown 转换器
 converter = html2text.HTML2Text()
@@ -21,8 +20,17 @@ converter.body_width = 0  # 不自动换行
 
 captured_request = None  # 保存目标请求
 
+logging.basicConfig(
+    level=logging.INFO,
+    format="[%(asctime)s] %(levelname)s: %(message)s",
+    handlers=[
+        logging.FileHandler("task.log", encoding="utf-8"),  # 写入日志文件
+        logging.StreamHandler(),  # 控制台输出
+    ],
+)
 
-def get_event_key():
+
+def get_event_info():
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -31,8 +39,10 @@ def get_event_key():
 
         def handle_request(route, request):
             global captured_request
-            if TARGET_API_KEYWORD in request.url and not captured_request:
-                print(f"✅ 捕获 API 请求: {request.url}")
+            api_keyword = "/fanapiWeb/eventsInfo/getEventsInfoPage"
+            if api_keyword in request.url and not captured_request:
+
+                logging.info(f"✅ 捕获 API 请求: {request.url}")
                 captured_request = request
             route.continue_()
 
@@ -53,13 +63,9 @@ def get_event_key():
                 url, method=method, headers=headers, data=post_data
             )
 
-            print("🎯 响应状态:", response.status)
-            # try:
-            #     print("📄 响应数据:", response.json())
-            # except:
-            #     print("📄 响应文本:", response.text())
-            print("=========")
-            print(json.dumps(response.json(), indent=4))
+            logging.info("🎯 响应状态:", response.status)
+            logging.info("=========")
+            logging.info(json.dumps(response.json(), indent=4))
             open("response.json", "w").write(
                 json.dumps(response.json(), indent=4, ensure_ascii=False)
             )
@@ -67,22 +73,21 @@ def get_event_key():
             captured_request = None
 
             # 遍历所有活动，获取活动详情
-            # captured_request = None
             def handle_request2(route, request):
                 global captured_request
                 tmp_api_keyword1 = "fanapiWeb/eventsInfo/getEventsInfoByEventsKey"
                 if tmp_api_keyword1 in request.url and not captured_request:
-                    print(f"✅ 捕获 API 请求: {request.url}")
+                    logging.info(f"✅ 捕获 API 请求: {request.url}")
                     captured_request = request
                 route.continue_()
 
             for event in response.json()["data"]["records"]:
-                print("活动 key:", event["eventsKey"])
+                logging.info("活动 key:", event["eventsKey"])
                 event_key = str(event["eventsKey"]).strip()
                 if os.path.exists(f"events/{event_key}.json") and os.path.exists(
                     f"events/{event_key}.md"
                 ):
-                    print("⚠️ 已存在文件，跳过")
+                    logging.info("⚠️ 已存在文件，跳过")
                     continue
                 context.route("**/*", handle_request2)
                 page.goto(
@@ -95,14 +100,14 @@ def get_event_key():
                     method = captured_request.method
                     url = captured_request.url
 
-                    print(f"📨 正在复用请求 {method} {url}")
+                    logging.info(f"📨 正在复用请求 {method} {url}")
                     tmp_response = context.request.fetch(
                         url, method=method, headers=headers, data=post_data
                     )
 
-                    print("🎯 响应状态:", tmp_response.status)
+                    logging.info("🎯 响应状态:", tmp_response.status)
 
-                    print("=========")
+                    logging.info("=========")
                     open(f"events/{event['eventsKey']}.json", "w").write(
                         json.dumps(tmp_response.json(), indent=4, ensure_ascii=False)
                     )
@@ -167,28 +172,28 @@ def get_event_key():
                     )
                     open(f"events/{event['eventsKey']}.md", "w").write(text_output)
                 else:
-                    print("⚠️ 未能捕获 API 请求，请确认关键词或延长等待时间")
+                    logging.warning("⚠️ 未能捕获 API 请求，请确认关键词或延长等待时间")
 
         else:
-            print("⚠️ 未能捕获 API 请求，请确认关键词或延长等待时间")
+            logging.warning("⚠️ 未能捕获 API 请求，请确认关键词或延长等待时间")
         browser.close()
 
 
 def update_event_info_gist():
     old_content = get_gist_content()
-    print("old_content:", old_content)
+    # logging.info("old_content:", old_content)
     # 用正则匹配 eventsKey=xxx
 
     pattern = r"eventsKey=(\w+)&?"
     matches = re.findall(pattern, old_content)
-    print("matches:", matches)
+    logging.info("matches:", matches)
 
     # 遍历events文件夹，读取所有md文件
     update_content = old_content
     for file in os.listdir("events"):
         event_key = os.path.basename(file).removesuffix(".md")
         if event_key in matches:
-            print("文件已存在，跳过")
+            logging.info("文件已存在，跳过")
             continue
         if file.endswith(".md"):
             with open(os.path.join("events", file), "r", encoding="utf-8") as f:
@@ -198,11 +203,48 @@ def update_event_info_gist():
                     "\n\n====================================\n\n" + content + "\n"
                 )
 
-    if update_content != old_content:
-        print("内容已更新，准备发送到Gist")
+    if update_content != old_content and update_content != "":
+        logging.info("内容已更新，准备发送到Gist")
         update_gist(update_content)
+        logging.info("Gist 更新成功！")
+
+
+def do_task():
+    iTry = 0
+    while iTry < 3:
+        try:
+            get_event_info()
+            logging.info("get_event_info 任务执行成功")
+            break
+        except Exception as e:
+            logging.error("❌ 任务执行失败:", e)
+            iTry += 1
+            logging.info("重试中...")
+            time.sleep(20)
+    if iTry == 3:
+        logging.error("❌ 任务执行失败，已重试3次")
+        return
+
+    iTry = 0
+    while iTry < 3:
+        try:
+            update_event_info_gist()
+            logging.info("update_event_info_gist 任务执行成功")
+            break
+        except Exception as e:
+            logging.error("❌ 更新 Gist 失败:", e)
+            iTry += 1
+            logging.info("重试中...")
+            time.sleep(20)
+    logging.info("任务执行完成")
 
 
 if __name__ == "__main__":
-    get_event_key()
-    update_event_info_gist()
+
+    # 每天 9:30 和 19:00 执行任务
+    schedule.every().day.at("09:30").do(do_task)
+    schedule.every().day.at("19:00").do(do_task)
+
+    while True:
+        schedule.run_pending()
+        time.sleep(1)

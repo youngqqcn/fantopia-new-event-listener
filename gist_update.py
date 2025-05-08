@@ -38,4 +38,5 @@ def update_gist(content: str):
         print("Gist 更新成功！")
     else:
         print("更新失败:", response.status_code, response.text)
+        raise Exception("更新失败" + str(response.status_code) + " " + response.text)
     pass
