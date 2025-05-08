@@ -186,7 +186,7 @@ def update_event_info_gist():
 
     pattern = r"eventsKey=(\w+)&?"
     matches = re.findall(pattern, old_content)
-    logging.info("matches:", matches)
+    logging.info(f"matches: {matches}")
 
     # 遍历events文件夹，读取所有md文件
     update_content = old_content
