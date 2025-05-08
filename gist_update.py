@@ -3,29 +3,25 @@ import os
 import requests
 from dotenv import load_dotenv
 
+load_dotenv()
+# 必填参数
+GIST_ID = os.getenv("GIST_ID")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+HEADERS = {
+    "Authorization": f"token {GITHUB_TOKEN}",
+    "Accept": "application/vnd.github.v3+json",
+}
 
-def update_gist(event_key: str, append_text: str):
+
+def get_gist_content():
     load_dotenv()
+    url = f"https://gist.githubusercontent.com/youngqqcn/{GIST_ID}/raw/"
+    print(url)
+    old_text = requests.get(url).text
+    return old_text
 
-    # 必填参数
-    GIST_ID = os.getenv("GIST_ID")
-    GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-    HEADERS = {
-        "Authorization": f"token {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github.v3+json",
-    }
 
-    old_text = requests.get(
-        f"https://gist.githubusercontent.com/youngqqcn/{GIST_ID}/raw/"
-    ).text
-
-    print("old_text: ", old_text)
-
-    if event_key in old_text:
-        print("该活动信息已存在，跳过更新")
-        return
-
-    # 构造更新内容
+def update_gist(content: str):
 
     # 发送 PATCH 请求更新 Gist
     response = requests.patch(
@@ -33,7 +29,7 @@ def update_gist(event_key: str, append_text: str):
         headers=HEADERS,
         json={
             "description": "fantopia活动信息收集",
-            "files": {"event_info_collection.txt": {"content": append_text}},
+            "files": {"event_info_collection.txt": {"content": content}},
         },
     )
 

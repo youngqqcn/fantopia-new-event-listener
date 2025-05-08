@@ -1,0 +1,177 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "id": 303,
+        "title": "2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in MACAU",
+        "defaultTitle": null,
+        "type": 2,
+        "amount": 0,
+        "ossUrl": "https://static.fantopia.io/ticketimg/de212390-a163-4018-81d4-80fd599ec43a.png",
+        "ossUrlPc": "",
+        "ossUrlMini": "https://static.fantopia.io/ticketimg/8a07f5f6-225a-4ee6-a9d2-1ebf4dbabf05.png",
+        "carousel": "https://static.fantopia.io/ticketimg/d74a6d4c-1237-4dbd-b5e4-6be8b428e817.png",
+        "qrImg": "https://static.fantopia.io/ticketimg/d0a24c93-8bd8-4c1a-bccb-160108826b3f.png",
+        "qrLogo": "https://static.fantopia.io/ticketimg/e286100b-dc0b-4fb2-a38f-b03988403cd7.png",
+        "qrLogoPhone": "https://static.fantopia.io/ticketimg/13659f54-4c66-48e0-89de-e6fc76bfb470.png",
+        "multifileType": null,
+        "subPicture": null,
+        "status": 2,
+        "sellTimeStamp": 1723003200000,
+        "startTime": "2024-09-28 19:30:00",
+        "endTime": "2024-09-29 23:59:59",
+        "remark": null,
+        "limitCount": 12,
+        "memberLimitCount": 12,
+        "limitType": 1,
+        "createTimeStamp": 1720405617560,
+        "createTime": "2024-07-08 10:26:58",
+        "updateTime": "2024-09-30 00:00:00",
+        "showFlag": 1,
+        "showTicketBtn": 1,
+        "sortNo": 23,
+        "recommend": 0,
+        "description": "<p>韓國女子團體Red Velvet將於2024年9月28日在澳門新濠影滙綜藝館舉辦2024 Red Velvet FANCON TOUR &lt;HAPPINESS : My Dear, ReVe1uv&gt; in MACAU</p><p><br></p><p>Date &amp; Time 時間: 2024/09/28 (SAT) 7:30PM & 2024/09/29 (SUN) 6:00PM</p><p>Venue 地點: Macau Studio City Event Center</p><p><br></p><p>Membership Pre-sale 會員預購</p><p>2024.8.06(TUE) 12PM (CST) ~ 9:59:59PM (CST)</p><p><br></p><p>General Sale 公開售票</p><p>2024.8.07(WEB) 12PM(CST)</p><p><br></p><p><strong>Ticket Price 門票價格 （未包含服務費）</strong></p><p>SIGNED POSTER PACKAGE MOP $1899</p><p>PHOTO CARD PACKAGE MOP $1899</p><p>PLATINUM MOP $1799</p><p>GOLD RV MOP $1799</p><p>A MOP $1399</p><p>B MOP $799</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://static.fantopia.io/ticketimg/fb63ee0c-2eba-41f4-88c9-85bd04f6952d.jpg\"></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://static.fantopia.io/ticketimg/a0add99d-1bfe-4d7d-b1b5-7f7d72b153bb.jpg\"></p><p><br></p><p>Ticket Service Fee: 18 MOP per ticket</p><p>門票服務費：18 MOP 每張門票</p><p><br></p><p><strong>Seat Map 座位圖</strong></p><p class=\"ql-align-center\"><img src=\"https://static.fantopia.io/ticketimg/4dd48de3-5036-41d7-a4a0-5c215d35ba51.jpg\"></p><p><br></p><p>*SEATED are all seated with allocated seats </p><p>座位區皆為劃位座席，請依票面座位號入座</p><p>*Registration does not guarantee you a ticket. 登記會員並不保證成功購票。</p><p>*Each MEMBERSHIP NUMBER is eligible for one order only. </p><p>注意:每1个優先購票代碼僅可用放進行(1筆)交易。一旦参舆任何交易，您的會員资格将法將無法再次進行驗證或用於其他交易</p><p>*Purchase limit is 2 tickets for MEMBERSHIP per sale and 4 tickets per show per account for Public on sale. If more than 2 tickets are purchased with the same member ID after verification, the organizer has the right to cancel the ticket transaction. </p><p>會員預購每筆ID限購2張票券，公開售票每人每交易限購4張票券。若經核對發現同一會員ID購票數超過2張，主辦單位有權取消該票券交易。</p><p>*Age limit: 3 years or above. One person per ticket regardless of age. A valid ticket is required for admission. </p><p>年齡限制: 只限3歲或以上；每張門票只供一人進場。入場時必需持有有效門票。</p><p>*Tickets purchased from MEMBERSHIP presale are non-transferable.</p><p>會員優先購票不支持轉贈</p><p>*We do not offer returns or exchanges. </p><p>售出門票不設退換</p>",
+        "location": "Macau Studio City Event Center",
+        "defaultLocation": null,
+        "geoLatitude": null,
+        "geoLongtitude": null,
+        "version": null,
+        "contractInfoId": null,
+        "eventsKey": "t1vrfac4",
+        "stubImg": "https://static.fantopia.io/ticketimg/d20cadbc-eb2f-404d-88b9-8723b39ab872.png",
+        "stubBackImg": "https://static.fantopia.io/ticketimg/2cfed661-1341-432a-af30-83600c81f6f1.png",
+        "shareImg": "https://static.fantopia.io/ticketimg/36904e3e-485d-4f10-81c6-72618085c123.png",
+        "autoMint": 1,
+        "threshold": null,
+        "minPrice": 79900,
+        "maxPrice": 189900,
+        "symbol": "MOP",
+        "symbolUnit": "MOP",
+        "existMerch": false,
+        "themeId": null,
+        "memberPayCodeName": "MEMBERSHIP NUMBER",
+        "waitlistExecuteSwitch": 0,
+        "waitlistExecuteType": 2,
+        "waitlistOpenTime": 900,
+        "waitlistStopDate": "2024-09-25 12:00:00",
+        "extraPropertyMap": {
+            "entityId": "2"
+        },
+        "titleI18nMap": null,
+        "locationI18nMap": null,
+        "platformShowMap": null,
+        "sellLocationList": null,
+        "showStatus": 0,
+        "venueId": 6,
+        "eventsEntity": {
+            "id": 2,
+            "entityArea": "澳门",
+            "entityName": "SINGULAR FLAME TECH (HK) LIMITED",
+            "entityEmail": "support@fantopia.io",
+            "entityPhone": null,
+            "entityAdress": "RM 413,4/F LUCKY CTR 165-171WAN CHAI RD WAN CHAI HK",
+            "remark": null
+        },
+        "shippingMode": null,
+        "shippingModeI18nMap": null,
+        "shippingTime": null,
+        "shippingTimeI18nMap": null,
+        "shippingInstructions": null,
+        "shippingInstructionsI18nMap": null,
+        "chooseSeatFlag": 0,
+        "ticketSimpleInfoVos": [
+            {
+                "title": "B",
+                "price": 79900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "B",
+                "price": 79900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "A",
+                "price": 139900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "A",
+                "price": 139900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "PLATINUM",
+                "price": 179900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "GOLD RV",
+                "price": 179900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "PLATINUM",
+                "price": 179900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "GOLD RV",
+                "price": 179900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "SIGNED POSTER PACKAGE",
+                "price": 189900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "PHOTO CARD PACKAGE",
+                "price": 189900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "SIGNED POSTER PACKAGE",
+                "price": 189900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            },
+            {
+                "title": "PHOTO CARD PACKAGE",
+                "price": 189900,
+                "symbol": "MOP",
+                "symbolUnit": "MOP"
+            }
+        ],
+        "ticketFlag": null,
+        "earliestSellStartTime": "2024-07-25 12:00:00",
+        "coSaleTime": "2024-08-07 12:00:00",
+        "eventSellEndTime": "2024-08-06 21:59:59",
+        "noticeInfo": null,
+        "memberSellStartTime": null,
+        "memberSellEndTime": null,
+        "platforms": [
+            "app",
+            "web",
+            "miniprogram"
+        ],
+        "detailInfoImg": "https://static.fantopia.io/ticketimg/a5b7ee84-d08e-4b39-89be-1c721558e09a.jpg",
+        "siteTimeZone": "+08:00",
+        "wxMiniImg": "https://static.fantopia.io/wxmini_qr/297a81d1-3e5a-4fdd-a3e5-fc78d88b4919.png",
+        "needRealFlag": 0,
+        "popUpMsg": null,
+        "authType": 0
+    },
+    "traceId": "00eceb0308661d7c"
+}

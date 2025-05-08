@@ -1,0 +1,28 @@
+```markdown
+- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=wu96nxmo  
+- **演出活动名称**: NCT 127 4TH TOUR 'NEO CITY : MACAU - THE MOMENTUM'  
+- **演出活动开始时间**:  
+  - 2025.04.26 (SAT) 19:00  
+  - 2025.04.27 (SUN) 18:00  
+- **演出活动地点**: 澳門銀河綜藝館 (GALAXY ARENA)  
+- **门票公开售票时间**: 2024年12月28日 12:00 (CST)  
+- **阵容**: NCT 127（韓國SM娛樂旗下男子演唱組合，成員未列明）  
+- **门票价格(未包含服务费)**:  
+  - NEO CITY PACKAGE | MOP$2,199 (站區，含Sound Check Party及限定明信片套組)  
+  - PLATINUM SEATED | MOP$1,999  
+  - CAT 1 SEATED | MOP$1,699  
+  - CAT 2 SEATED | MOP$1,399  
+  - CAT 3 SEATED | MOP$999  
+  - CAT 4 SEATED | MOP$699  
+  - RESTRICTED VIEW ZONE (視線受阻座位)  
+- **门票类型**: 電子票（動態二維碼，紙質打印或截圖無效）  
+- **限购数量**:  
+  - 會員預購每場限購2張  
+  - 公開售票每交易限購4張  
+- **年龄限制**:  
+  - 站區禁止孕婦及身高未滿140公分或12歲以下兒童  
+- **其他信息**:  
+  - 座位區對號入座，站區依票面序號排隊  
+  - 不設退換票  
+  - 視線受阻座位可能無法看到完整舞台  
+```

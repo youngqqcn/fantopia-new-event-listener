@@ -1,0 +1,167 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "id": 283,
+        "title": "薛之謙\"天外來物\"巡回演唱會",
+        "defaultTitle": null,
+        "type": 2,
+        "amount": 0,
+        "ossUrl": "https://static.fantopia.io/ticketimg/32fe7032-9b5f-42f4-87cb-e0dd27f4cd82.png",
+        "ossUrlPc": "https://static.fantopia.io/ticketimg/c4b8dfb0-f8df-450f-aa21-b3a68208a126.png",
+        "ossUrlMini": "https://static.fantopia.io/ticketimg/24a20014-4ed9-4239-ac16-71c26f94f83f.png",
+        "carousel": "https://static.fantopia.io/ticketimg/b6b3abe8-35d5-4aba-8df8-dfecbdb6bdb6.png",
+        "qrImg": "https://static.fantopia.io/ticketimg/4ac4d44a-06d4-4d71-a6a6-396291823737.png",
+        "qrLogo": "https://static.fantopia.io/ticketimg/09df94a4-d3e7-46ae-8bb9-ddb28127b35c.png",
+        "qrLogoPhone": "https://static.fantopia.io/ticketimg/7760eb2f-bc77-442b-9257-4ffcbf0f4003.png",
+        "multifileType": null,
+        "subPicture": null,
+        "status": 2,
+        "sellTimeStamp": 1701338400000,
+        "startTime": "2023-12-02 20:00:00",
+        "endTime": "2023-12-03 23:59:59",
+        "remark": null,
+        "limitCount": 8,
+        "memberLimitCount": null,
+        "limitType": 1,
+        "createTimeStamp": 1701256737632,
+        "createTime": "2023-11-29 19:18:58",
+        "updateTime": "2023-12-04 00:00:00",
+        "showFlag": 1,
+        "showTicketBtn": 1,
+        "sortNo": 4,
+        "recommend": 0,
+        "description": "<p>Presented By: IME ENTERTAINMENT GROUP</p><p>新增座位，數量有限！由點子娛樂(iMe)及亞洲音樂娛樂(AMG)主辦，內地人氣歌手薛之謙《天外來物》巡迴演唱會香港站將於2023年12月2至3日在亞洲國際博覽館舉行。這次是薛之謙時隔4年再度來港開演唱會，相信會讓期待已久的香港粉絲驚喜萬分。</p><p><br></p><p>已出道18年的薛之謙發行過多首膾炙人口的歌曲，當中《演員》、《醜八怪》、《你還要我怎樣》等更獲得熱烈迴響。《天外來物》的故事中薛之謙化身為一名星際執行官並奉命要消滅地球，他在地球毀滅前夕被人類的種種美好所感動，最後捨身拯救地球。這次的巡迴演唱會將以「天外來物」作為演唱會的主題概念，包含薛之謙對音樂和生活的獨特見解。生活節奏快會使人容易忽略身邊美好的人和事，而《天外來物》正是想藉著音樂，希望大家都可以保留一顆單純善良的心。</p><p><br></p><p>先前已舉行的其他地區演唱會均以星際穿越為主題，加入各種全新的景觀元素，為了讓觀眾能夠沉浸在星際太空的故事中。演唱會實景搭建充滿未來感的舞台，並配合科技感的舞台服裝設計，以呼應天外來物的演唱會主題。薛之謙曾於演唱會上獻唱多首人氣歌曲，更密密與歌迷互動，令演唱會搖身一變成為粉絲見面會大展薛氏幽默，讓香港歌迷更期待香港站的舞台設計和欣賞薛之謙的表演。</p><p><br></p><p>期待這次演唱會薛之謙能為香港歌迷帶來不少「從天而降」的星際驚喜，讓一眾歌迷能近距離地欣賞薛氏情歌。如欲知道更多有關薛之謙演唱會詳情，請密切留意iMe Asia Facebook！</p><p><br></p><p>座位圖</p><p><img src=\"https://static.fantopia.io/ticketimg/0823b96a-945e-4dd9-82aa-3a5e42c7fedb.png\"></p><p><br></p><p>入場細則：</p><ol><li>門票一經售出，不退不換。</li><li>每交易只可購買單一場次最多4張門票。</li><li>劃位節目；適合3歲或以上之人士。</li><li>不論年齡；每張門票只供一人進場。</li><li>持票人必須遵守亞洲國際博覽館之條例及規則，否則可能會被拒進場並不獲退款。</li></ol><p><br></p>",
+        "location": "亞洲國際博覽館Arena",
+        "defaultLocation": null,
+        "geoLatitude": null,
+        "geoLongtitude": null,
+        "version": null,
+        "contractInfoId": null,
+        "eventsKey": "98m4brs5",
+        "stubImg": "https://static.fantopia.io/ticketimg/c4460ccc-bbcb-4231-951b-5d85a31ebf3d.png",
+        "stubBackImg": "https://static.fantopia.io/ticketimg/8e4ccf5c-d35e-4a04-b357-1bcea9c5ec76.png",
+        "shareImg": "https://static.fantopia.io/ticketimg/b82f70e2-e774-46a6-8d06-6bdbb8d72215.png",
+        "autoMint": 0,
+        "threshold": null,
+        "minPrice": 57700,
+        "maxPrice": 177700,
+        "symbol": "HKD",
+        "symbolUnit": "HKD",
+        "existMerch": false,
+        "themeId": null,
+        "memberPayCodeName": "Member Code",
+        "waitlistExecuteSwitch": 0,
+        "waitlistExecuteType": 1,
+        "waitlistOpenTime": null,
+        "waitlistStopDate": null,
+        "extraPropertyMap": null,
+        "titleI18nMap": null,
+        "locationI18nMap": null,
+        "platformShowMap": null,
+        "sellLocationList": null,
+        "showStatus": 0,
+        "venueId": 0,
+        "eventsEntity": null,
+        "shippingMode": null,
+        "shippingModeI18nMap": null,
+        "shippingTime": null,
+        "shippingTimeI18nMap": null,
+        "shippingInstructions": null,
+        "shippingInstructionsI18nMap": null,
+        "chooseSeatFlag": 0,
+        "ticketSimpleInfoVos": [
+            {
+                "title": "CAT6",
+                "price": 57700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT6",
+                "price": 57700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT5",
+                "price": 77700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT5",
+                "price": 77700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT4",
+                "price": 107700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT4",
+                "price": 107700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT3",
+                "price": 127700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT3",
+                "price": 127700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT2",
+                "price": 157700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT2",
+                "price": 157700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT1",
+                "price": 177700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT1",
+                "price": 177700,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            }
+        ],
+        "ticketFlag": null,
+        "earliestSellStartTime": "2023-11-30 18:00:00",
+        "coSaleTime": "2023-11-30 18:00:00",
+        "eventSellEndTime": null,
+        "noticeInfo": null,
+        "memberSellStartTime": null,
+        "memberSellEndTime": null,
+        "platforms": [
+            "app",
+            "web",
+            "miniprogram"
+        ],
+        "detailInfoImg": "https://static.fantopia.io/ticketimg/9dae266a-331d-4995-ada1-a1e2fdba1d56.jpg",
+        "siteTimeZone": "+08:00",
+        "wxMiniImg": "https://static.fantopia.io/wxmini_qr/c5bafae4-93cd-4620-b29f-c1afef406453.png",
+        "needRealFlag": 0,
+        "popUpMsg": null,
+        "authType": 0
+    },
+    "traceId": "f70bfa7c8d2b91e6"
+}

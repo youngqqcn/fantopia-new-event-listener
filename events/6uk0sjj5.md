@@ -1,0 +1,22 @@
+```markdown
+- **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=6uk0sjj5
+- **演出活动名称**：Fansland WEB3 EDM Festival
+- **演出活动开始时间**：2024-11-12 19:00:00
+- **活动结束时间**：2024-11-13 23:59:59
+- **演出活动地点**：BITEC BANGNA BANGKOK
+- **门票公开售票时间**: 2024-10-30 10:00:00
+- **限购数量**: 10
+- **阵容**:
+  - RAVE REPUBLIC：来自瑞士和澳大利亚的顶级电音组合
+  - 22 Bullets：泰国本土的电音传奇
+  - 神秘演出嘉宾：将在活动现场带来惊喜演出
+- **特邀嘉宾**:
+  - ETH基金会
+  - Solana基金会
+  - TON基金会
+  - a16z合伙人
+- **货币符号**: THB
+- **线上全球直播**: TON生态项目将进行线上直播
+- **其他信息(注意事项)**:
+  - 更多详情请关注：https://x.com/fansland_io
+```

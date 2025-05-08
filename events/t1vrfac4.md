@@ -1,0 +1,31 @@
+```markdown
+- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=t1vrfac4
+- **演出活动名称**: 2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in MACAU
+- **演出活动开始时间**: 
+  - 2024/09/28 (SAT) 7:30PM
+  - 2024/09/29 (SUN) 6:00PM
+- **演出活动地点**: Macau Studio City Event Center
+- **门票公开售票时间**: 2024.8.07(WEB) 12PM(CST)
+- **门票会员优先售票时间**: 2024.8.06(TUE) 12PM (CST) ~ 9:59:59PM (CST)
+- **阵容**: 韓國女子團體Red Velvet
+- **门票价格(未包含服务费)**:
+  - SIGNED POSTER PACKAGE MOP $1899
+  - PHOTO CARD PACKAGE MOP $1899
+  - PLATINUM MOP $1799
+  - GOLD RV MOP $1799
+  - A MOP $1399
+  - B MOP $799
+- **服务费**: 18 MOP 每張門票
+- **是否有会员优先购票**: 是
+- **限购数量**: 
+  - 会员预购每笔ID限购2张票券
+  - 公开售票每人每交易限购4张票券
+- **是否有年龄限制**: 只限3歲或以上；每張門票只供一人進場
+- **是否需要实名**: 會員優先購票不支持轉贈
+- **其他信息(注意事项)**:
+  - 座位區皆為劃位座席，請依票面座位號入座
+  - 登記會員並不保證成功購票
+  - 每1个優先購票代碼僅可用放進行(1筆)交易
+  - 若經核對發現同一會員ID購票數超過2張，主辦單位有權取消該票券交易
+  - 售出門票不設退換
+```

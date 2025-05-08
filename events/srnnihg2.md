@@ -1,0 +1,30 @@
+```markdown
+- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=srnnihg2
+- **演出活动名称**: 2024 ENHYPEN WORLD TOUR 'FATE' IN MACAU
+- **演出活动开始时间**: 
+  - 2024/01/26 (FRI) 20:00
+  - 2024/01/27 (SAT) 19:30
+  - 2024/01/28 (SUN) 18:30
+- **演出活动地点**: 中國澳門｜銀河綜藝館 GALAXY ARENA
+- **门票公开售票时间**: 2023-12-15 12:00:00 (CST)
+- **阵容**: ENHYPEN（7人男团）
+- **门票价格(包含服务费)**:
+  - MOP 1,999 VIP L/R *STANDING (含SOUND CHECK PARTY)
+  - MOP 1,999 PLATINUM SEATED
+  - MOP 1,799 CAT 1 SEATED
+  - MOP 1,499 CAT 2 SEATED
+  - MOP 1,199 CAT 3 SEATED
+  - MOP 799 CAT 4 SEATED
+  - MOP 1,199 CAT 3 SEATED RV (限制视野区)
+  - MOP 799 CAT 4 SEATED RV (限制视野区)
+- **限购数量**: 
+  - 公开售票每人限购4张
+  - 会员预购每ID限购4张
+- **注意事项**:
+  - VIP站区需按票面序号排队入场
+  - 孕妇及身高未满140cm或未满12岁儿童禁止进入VIP站区
+  - 座位区均为对号入座
+  - 限制视野区可能无法看到完整舞台
+  - 会员优先购票不支持转赠
+  - 若发现同一会员ID购票超过4张，主办方有权取消交易
+```

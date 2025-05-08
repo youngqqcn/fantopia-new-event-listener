@@ -1,0 +1,179 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "id": 284,
+        "title": "BILLKIN & PP KRIT ASIA FAN MEETING 2024 in MACAU",
+        "defaultTitle": null,
+        "type": 2,
+        "amount": 0,
+        "ossUrl": "https://static.fantopia.io/ticketimg/aca5497f-6aed-469e-8aff-3071fcc36e81.png",
+        "ossUrlPc": "https://static.fantopia.io/ticketimg/ae9f846e-677d-4f53-abb7-634155e97cb0.png",
+        "ossUrlMini": "https://static.fantopia.io/ticketimg/ae9f846e-677d-4f53-abb7-634155e97cb0.png",
+        "carousel": "https://static.fantopia.io/ticketimg/6cf57957-423d-41e9-a8ea-2a71321e39f8.png",
+        "qrImg": "https://static.fantopia.io/ticketimg/a95c90a6-bf77-4984-85ca-5fcea9861569.png",
+        "qrLogo": "https://static.fantopia.io/ticketimg/d1b6a0e3-aed1-4864-b9e7-535c1bcbfe76.png",
+        "qrLogoPhone": "https://static.fantopia.io/ticketimg/72dfaf2d-b31a-48a0-9ef6-198a260c515f.png",
+        "multifileType": null,
+        "subPicture": null,
+        "status": 2,
+        "sellTimeStamp": 1702346400000,
+        "startTime": "2024-01-28 18:00:00",
+        "endTime": "2024-01-28 23:59:59",
+        "remark": null,
+        "limitCount": 8,
+        "memberLimitCount": null,
+        "limitType": 1,
+        "createTimeStamp": 1701676767822,
+        "createTime": "2023-12-04 15:59:28",
+        "updateTime": "2024-01-29 00:00:10",
+        "showFlag": 1,
+        "showTicketBtn": 1,
+        "sortNo": 7,
+        "recommend": 0,
+        "description": "<p>BILLKIN & PP KRIT ASIA FAN MEETING 2024 in MACAU will be held on 27 January and 28 January at MGM Cotai 1/F Rooftop! Don’t miss this incredible opportunity to meet BILLKIN & PP KRIT in person this January!</p><p>泰國人氣藝人BILLKIN & PP KRIT (BKPP)將在2024年1月27日、1月28日到澳門MGM美獅美高梅一樓平臺舉辦亞洲粉絲見面會。屆時各位喜歡BKPP的粉絲們千萬不要錯過。</p><p><img src=\"https://static.fantopia.io/ticketimg/494af655-1d73-43a3-91f8-9fac67a5ebfd.JPEG\"></p><p><br></p><p>Time 時間: 2024/01/27 (SAT) 8PM & 2024/01/28 (SUN) 6PM </p><p>Venue 地點: MGM COTAI 1/F Roof Terrace</p><p><br></p><p>Public Sale 公開售票</p><p>Date & Time: 2023/12/12 10:00AM CST</p><p><br></p><p><strong>Ticket Price 門票價格</strong></p><p><img src=\"https://static.fantopia.io/ticketimg/7b27f829-37a1-4ca4-9c62-624bc0c8d932.JPEG\"></p><p><br></p><p><img src=\"https://static.fantopia.io/ticketimg/fb8bb63a-48e1-410f-9658-1a37d13f16a8.jpeg\"></p><p><br></p><p><strong>Package Terms & Conditions 套組禮包條款和條件</strong></p><p><img src=\"https://static.fantopia.io/ticketimg/6646a7bd-32f9-42bd-abf9-b9f5df238179.jpg\"></p><p><br></p><p><img src=\"https://static.fantopia.io/ticketimg/fb66af5c-c195-4f80-a7a1-d8be81d01752.jpg\"></p><p><br></p><p><strong>Seat Map 座位圖</strong></p><p><img src=\"https://static.fantopia.io/ticketimg/3fa00484-1a20-4d1d-b095-1b5ed8f63fb6.jpg\"></p><p><br></p><p><img src=\"https://static.fantopia.io/ticketimg/1e2ed987-0bfb-4d76-85f9-40c758c3067c.jpg\"></p><p><br></p><p>*SEATED are all seated with allocated seats 座位區皆為劃位座席，請依票面座位號入座</p><p>*Purchase limit is 4 tickets per show per account for Public on sale 公開售票每人每交易限購4張票券</p><p>*We do not offer returns or exchanges unless there are exceptional circumstances 售出門票不設退換，如有特殊情況將酌情處理</p><p><br></p>",
+        "location": "MGM COTAI 1/F Roof Terrace",
+        "defaultLocation": null,
+        "geoLatitude": null,
+        "geoLongtitude": null,
+        "version": null,
+        "contractInfoId": null,
+        "eventsKey": "spldu3t0",
+        "stubImg": "https://static.fantopia.io/ticketimg/d647ddfb-de83-481e-b4e8-e6254bc61007.png",
+        "stubBackImg": "https://static.fantopia.io/ticketimg/02f41ec8-cb6a-4d53-8476-4502033cbe20.png",
+        "shareImg": "https://static.fantopia.io/ticketimg/de1d6e1b-0db3-4036-971b-aa188a283caf.png",
+        "autoMint": 0,
+        "threshold": null,
+        "minPrice": 78800,
+        "maxPrice": 188800,
+        "symbol": "HKD",
+        "symbolUnit": "HKD/MOP",
+        "existMerch": false,
+        "themeId": null,
+        "memberPayCodeName": "Member Code",
+        "waitlistExecuteSwitch": 0,
+        "waitlistExecuteType": 2,
+        "waitlistOpenTime": 1800,
+        "waitlistStopDate": "2023-12-29 15:00:00",
+        "extraPropertyMap": null,
+        "titleI18nMap": null,
+        "locationI18nMap": null,
+        "platformShowMap": null,
+        "sellLocationList": null,
+        "showStatus": 0,
+        "venueId": 0,
+        "eventsEntity": null,
+        "shippingMode": null,
+        "shippingModeI18nMap": null,
+        "shippingTime": null,
+        "shippingTimeI18nMap": null,
+        "shippingInstructions": null,
+        "shippingInstructionsI18nMap": null,
+        "chooseSeatFlag": 0,
+        "ticketSimpleInfoVos": [
+            {
+                "title": "SILVER",
+                "price": 78800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "SILVER",
+                "price": 78800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "GOLD",
+                "price": 118800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "GOLD",
+                "price": 118800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "HI-BYE PACKAGE",
+                "price": 158800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "SPECIAL MEMORABILIA PACKAGE",
+                "price": 158800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "HI-BYE PACKAGE",
+                "price": 158800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "SPECIAL MEMORABILIA PACKAGE",
+                "price": 158800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "GROUP PHOTO PACKAGE",
+                "price": 188800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "HIGH TOUCH PACKAGE",
+                "price": 188800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "SIGNED POSTER PACKAGE",
+                "price": 188800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "GROUP PHOTO PACKAGE",
+                "price": 188800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "HIGH TOUCH PACKAGE",
+                "price": 188800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "SIGNED POSTER PACKAGE",
+                "price": 188800,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            }
+        ],
+        "ticketFlag": null,
+        "earliestSellStartTime": "2023-12-12 10:00:00",
+        "coSaleTime": "2023-12-12 10:00:00",
+        "eventSellEndTime": null,
+        "noticeInfo": null,
+        "memberSellStartTime": null,
+        "memberSellEndTime": null,
+        "platforms": [
+            "app",
+            "web",
+            "miniprogram"
+        ],
+        "detailInfoImg": "https://static.fantopia.io/ticketimg/5946ad66-1e0f-4d67-a406-a1d3ed693c14.jpg",
+        "siteTimeZone": "+08:00",
+        "wxMiniImg": "https://static.fantopia.io/wxmini_qr/34acb8c7-d980-435f-b800-a295f6e72e6c.png",
+        "needRealFlag": 0,
+        "popUpMsg": null,
+        "authType": 0
+    },
+    "traceId": "54e8ed8dfea7bde5"
+}

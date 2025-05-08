@@ -1,0 +1,161 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "id": 279,
+        "title": "2023 張信哲“未來式2.0”巡迴演唱會-中國澳門站",
+        "defaultTitle": null,
+        "type": 2,
+        "amount": 0,
+        "ossUrl": "https://static.fantopia.io/ticketimg/71d61c1f-6c38-4088-a07b-f27466749801.png",
+        "ossUrlPc": "https://static.fantopia.io/ticketimg/2841dec7-0162-4d93-a850-f68576977fb1.png",
+        "ossUrlMini": "https://static.fantopia.io/ticketimg/b3a96b5f-da07-43a0-ae74-025b279d0b18.png",
+        "carousel": "https://static.fantopia.io/ticketimg/63c49c73-e9ca-450e-951b-37856b1bff36.png",
+        "qrImg": "https://static.fantopia.io/ticketimg/09175fdc-6739-4964-92ce-8a2228f1ec77.png",
+        "qrLogo": "https://static.fantopia.io/ticketimg/530d47c6-414f-4949-9fa4-f19e4be5424f.png",
+        "qrLogoPhone": "https://static.fantopia.io/ticketimg/b8924829-7f32-4526-8915-102bbf153ef2.png",
+        "multifileType": null,
+        "subPicture": null,
+        "status": 2,
+        "sellTimeStamp": 1695873600000,
+        "startTime": "2023-12-02 19:30:00",
+        "endTime": "2023-12-02 23:59:59",
+        "remark": null,
+        "limitCount": 6,
+        "memberLimitCount": null,
+        "limitType": 1,
+        "createTimeStamp": 1695354625785,
+        "createTime": "2023-09-22 11:50:26",
+        "updateTime": "2023-12-03 00:00:00",
+        "showFlag": 1,
+        "showTicketBtn": 1,
+        "sortNo": 3,
+        "recommend": 0,
+        "description": "<p>馳騁樂壇三十餘年</p><p>憑藉著溫柔的嗓音和詮釋情歌的深刻代入感，成為樂迷心中唯一的情歌王子</p><p>夢想不止 未來可期</p><p>2023年張信哲「未來式2.0」 經典與藝術交相輝映</p><p>穿越愛與信仰 用情歌開啟愛與青春對話的時空之旅</p><p>讓我們與張信哲一起</p><p>用一首經典歌曲坐上“時光機”</p><p>穿越回那個專屬於自己的青春，</p><p>再一起奔赴未知的未來！</p><p><img src=\"https://static.fantopia.io/ticketimg/0a15a192-388f-402a-bac8-9921ee756fff.JPEG\"></p><p><br></p><p>*售票日期：2023年09月28日 (週四) 中午12點</p><p>*演唱會日期： 2023年12月02日19:30</p><p>*地點：GALAXY ARENA</p><p><br></p><p>*票價 (全場座席)：</p><p>VIP 內場區 HKD/MOP $1,699 </p><p>PLATINUM SEATED 優選座位區 HKD/MOP $1,499 </p><p>CAT 1 看台區 HKD/MOP $1,299 </p><p>CAT 2 看台區 HKD/MOP $999</p><p>CAT 3 看台區 HKD/MOP $799</p><p>CAT 4 看台區 HKD/MOP $499</p><p><br></p><p>座位圖：</p><p><img src=\"https://static.fantopia.io/ticketimg/0762d650-c3be-4b23-b253-1361795d3c63.JPEG\"></p>",
+        "location": "中國澳門 | 銀河綜藝館",
+        "defaultLocation": null,
+        "geoLatitude": 1.0,
+        "geoLongtitude": 1.0,
+        "version": null,
+        "contractInfoId": null,
+        "eventsKey": "cb10ddno",
+        "stubImg": "https://static.fantopia.io/ticketimg/e289fbd3-21bc-4da1-b1eb-ea30f63c06a5.png",
+        "stubBackImg": "https://static.fantopia.io/ticketimg/73b5ac18-2e2e-490c-8a44-957e5ecf6541.png",
+        "shareImg": "https://static.fantopia.io/ticketimg/7b7e7a70-7cc9-47a5-a6a6-4f04a9b6b31e.png",
+        "autoMint": 0,
+        "threshold": null,
+        "minPrice": 49900,
+        "maxPrice": 169900,
+        "symbol": "HKD",
+        "symbolUnit": "HKD/MOP",
+        "existMerch": false,
+        "themeId": null,
+        "memberPayCodeName": "Member Code",
+        "waitlistExecuteSwitch": 0,
+        "waitlistExecuteType": 1,
+        "waitlistOpenTime": null,
+        "waitlistStopDate": null,
+        "extraPropertyMap": null,
+        "titleI18nMap": null,
+        "locationI18nMap": null,
+        "platformShowMap": null,
+        "sellLocationList": null,
+        "showStatus": 0,
+        "venueId": 0,
+        "eventsEntity": null,
+        "shippingMode": null,
+        "shippingModeI18nMap": null,
+        "shippingTime": null,
+        "shippingTimeI18nMap": null,
+        "shippingInstructions": null,
+        "shippingInstructionsI18nMap": null,
+        "chooseSeatFlag": 0,
+        "ticketSimpleInfoVos": [
+            {
+                "title": "CAT 4 看台區",
+                "price": 49900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 看台區",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 看台區",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 看台區",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 2 看台區",
+                "price": 99900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 2 看台區",
+                "price": 99900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 1 看台區",
+                "price": 129900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 1 看台區",
+                "price": 129900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "PLATINUM SEATED 優選座位區",
+                "price": 149900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "PLATINUM SEATED 優選座位區",
+                "price": 149900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "VIP 內場區",
+                "price": 169900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            }
+        ],
+        "ticketFlag": null,
+        "earliestSellStartTime": "2023-09-28 12:00:00",
+        "coSaleTime": "2023-09-28 12:00:00",
+        "eventSellEndTime": null,
+        "noticeInfo": null,
+        "memberSellStartTime": null,
+        "memberSellEndTime": null,
+        "platforms": [
+            "app",
+            "web",
+            "miniprogram"
+        ],
+        "detailInfoImg": "https://static.fantopia.io/ticketimg/9e4f11e3-17eb-4077-853f-b884204c68f1.jpg",
+        "siteTimeZone": "+08:00",
+        "wxMiniImg": "https://static.fantopia.io/wxmini_qr/13c64123-de30-43b1-b325-275233515207.png",
+        "needRealFlag": 0,
+        "popUpMsg": null,
+        "authType": 0
+    },
+    "traceId": "338f1e6b5014f615"
+}

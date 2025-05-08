@@ -1,0 +1,30 @@
+```markdown
+- **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=62vtkupa
+- **演出活动名称**：TOMORROW X TOGETHER WORLD TOUR - EP. 2 - IN MACAU
+- **演出活动开始时间**：2025-05-09 20:00:00
+- **活动结束时间**：2025-05-11 23:59:59
+- **演出活动地点**：GALAXY ARENA
+- **门票公开售票时间**：2025-02-16 18:00 (CST)
+- **加场公售时间**：2025-02-24 18:00 (CST)
+- **门票会员优先售票时间**：2025-02-16 09:00 - 15:00 (CST)
+- **阵容**：TOMORROW X TOGETHER（由崔秀彬、崔然竣、崔杋圭、姜太顯、休寧凱組成）
+- **门票价格(未包含服务费)**：
+  - VIP L/R STANDING (INCLUDE SOUND CHECK PARTY) MOP 1,999
+  - PLATINUM SEATED MOP 1,999
+  - CAT 1 SEATED MOP 1,799
+  - CAT 2 SEATED MOP 1,499
+  - CAT 3 SEATED MOP 1,199
+  - CAT 4 SEATED MOP 799
+  - RESTRICTED VIEW ZONE
+- **门票类型**：电子票
+- **是否有会员优先购票**：是
+- **限购数量**：4张/每场次/每账户
+- **是否有年龄限制**：站区禁止身高未满140cm或未满12岁儿童及孕妇入场
+- **是否需要实名**：会员优先购票不支持转赠
+- **其他信息(注意事项)**：
+  - 座位区为划位座席，站区需按票面序号排队入场
+  - Restricted View座位可能视线受阻
+  - 采用动态电子门票，需登录账户出示二维码入场
+  - 售出门票不设退换
+  - 同一会员ID购票超4张可能被取消交易
+```

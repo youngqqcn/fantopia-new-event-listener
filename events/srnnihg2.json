@@ -1,0 +1,239 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "id": 281,
+        "title": "2024 ENHYPEN WORLD TOUR 'FATE' IN MACAU",
+        "defaultTitle": null,
+        "type": 2,
+        "amount": 0,
+        "ossUrl": "https://static.fantopia.io/ticketimg/26aaadef-da3d-4628-aa39-e6ad65f2c489.png",
+        "ossUrlPc": "https://static.fantopia.io/ticketimg/df1348db-858f-4910-a4d1-6c5d4da4505b.png",
+        "ossUrlMini": "https://static.fantopia.io/ticketimg/df1348db-858f-4910-a4d1-6c5d4da4505b.png",
+        "carousel": "https://static.fantopia.io/ticketimg/29e220b4-2e3c-4bdf-8d56-d25a62fb40b3.png",
+        "qrImg": "https://static.fantopia.io/ticketimg/3cb2802c-5dfb-4fff-a3d0-f9e9577fd54d.png",
+        "qrLogo": "https://static.fantopia.io/ticketimg/ad8fbacb-2811-4ebe-8826-6993fe7c555f.png",
+        "qrLogoPhone": "https://static.fantopia.io/ticketimg/a5ca6c41-0439-4d60-a708-f52c5cf1e9d9.png",
+        "multifileType": null,
+        "subPicture": null,
+        "status": 2,
+        "sellTimeStamp": 1702612800000,
+        "startTime": "2024-01-27 19:30:00",
+        "endTime": "2024-01-28 23:59:59",
+        "remark": null,
+        "limitCount": 12,
+        "memberLimitCount": 8,
+        "limitType": 1,
+        "createTimeStamp": 1698722137479,
+        "createTime": "2023-10-31 11:15:37",
+        "updateTime": "2024-01-29 00:00:00",
+        "showFlag": 1,
+        "showTicketBtn": 1,
+        "sortNo": 5,
+        "recommend": 0,
+        "description": "<p>ENGENE 集合！韓國新生代顏值擔當男團ENHYPEN世巡要來澳門了！七位集才華、活力與魅力於一身的型格boys將於2024年1月26日，27日及28日亮相銀河綜藝館！</p><p><br></p><p>ENGENE attention! Your favorite artists, the K-pop idol group ENHYPEN is coming to Macau! The seven super talented, spirited and extremely attractive boys will make their world tour at Galaxy Arena on January 26, 27 and 28, 2024.</p><p><img src=\"https://static.fantopia.io/ticketimg/ca8ab498-bb4a-4415-80bc-91efc3f2cb35.JPEG\"></p><p><br></p><p>*時間 Date: 2024/01/26 (FRI) 20:00 & 01/27 (SAT) 19:30 & 01/28 (SUN) 18:30</p><p>*地點 Venue: 中國澳門｜銀河綜藝館 GALAXY ARENA</p><p><br></p><p><p>Public Sale 公開售票：</p><p>Date & Time: 12:00 NOON (CST) , December 15 (FRI)</p><p><br></p>*門票價格 Ticket Price:</p><p>-MOP 1,999 VIP L/ R *STANDING (INCLUDE SOUND CHECK PARTY)</p><p>-MOP 1,999 PLATINUM SEATED</p><p>-MOP 1,799 CAT 1 SEATED</p><p>-MOP 1,499 CAT 2 SEATED</p><p>-MOP 1,199 CAT 3 SEATED</p><p>-MOP 799 CAT 4 SEATED</p><p>-MOP 1,199 CAT 3 SEATED RV (RESTRICTED VIEW ZONE)</p><p>-MOP 799 CAT 4 SEATED RV (RESTRICTED VIEW ZONE)</p><p><br></p><p>*座位圖 Seat Map:</p><p><img src=\"https://static.fantopia.io/ticketimg/7f3acbab-859f-4198-b539-9168a4022997.jpg\"></p><p><br></p><p>*You may be unable to see the entire stage from the restricted view seats.</p><p>*VIP (STANDING) entry is with queue number. For safety reasons, pregnant women and children under 140 cm or 12 years old are not allowed to enter VIP (STANDING) area. VIP站區票面有序號，請依票面序號排整隊入場。人身安全起見，孕婦及身高未滿140公分或未滿12歲孩童，請勿購買VIP站區票券，主辦方將有權謝絕入場</p><p>*SEATED are all seated with allocated seats. 座位區皆為劃位座席，請依票面座位號入座</p><p>*The purchase limit per account is 4 tickets for the public on sale. 公開售票每人每交易限購4張票券</p><p>*Tickets purchased from ENGENE Membership presale are non-transferable.  會員優先購票不支持轉贈</p><p>*Purchase limit is 4 tickets for ENGENE MEMBERSHIP per sale and 4 tickets per show per account for Public on sale. If more than 4 tickets are purchased with the same member ID after verification, the organizer has the right to cancel the ticket transaction. ENGENE MEMBERSHIP會員預購每筆ID限購4張票券，公開售票每人每交易限購4張票券。若經核對發現同一會員ID購票數超過4張，主辦單位有權取消該票券交易</p>",
+        "location": "中國澳門 | 銀河綜藝館",
+        "defaultLocation": null,
+        "geoLatitude": 1.0,
+        "geoLongtitude": 1.0,
+        "version": null,
+        "contractInfoId": null,
+        "eventsKey": "srnnihg2",
+        "stubImg": "https://static.fantopia.io/ticketimg/292e172a-50ee-48bd-bf77-31b5f362998b.png",
+        "stubBackImg": "https://static.fantopia.io/ticketimg/a3768ffb-1a4d-4adc-9155-eafb9dc82669.png",
+        "shareImg": "https://static.fantopia.io/ticketimg/f847c806-0a34-43c2-94db-dbfad48fdbb2.png",
+        "autoMint": 0,
+        "threshold": null,
+        "minPrice": 79900,
+        "maxPrice": 199900,
+        "symbol": "HKD",
+        "symbolUnit": "HKD/MOP",
+        "existMerch": false,
+        "themeId": null,
+        "memberPayCodeName": "ENGENE MEMBERSHIP NUMBER",
+        "waitlistExecuteSwitch": 0,
+        "waitlistExecuteType": 1,
+        "waitlistOpenTime": null,
+        "waitlistStopDate": null,
+        "extraPropertyMap": null,
+        "titleI18nMap": null,
+        "locationI18nMap": null,
+        "platformShowMap": null,
+        "sellLocationList": null,
+        "showStatus": 0,
+        "venueId": 0,
+        "eventsEntity": null,
+        "shippingMode": null,
+        "shippingModeI18nMap": null,
+        "shippingTime": null,
+        "shippingTimeI18nMap": null,
+        "shippingInstructions": null,
+        "shippingInstructionsI18nMap": null,
+        "chooseSeatFlag": 0,
+        "ticketSimpleInfoVos": [
+            {
+                "title": "CAT 4 SEATED",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 4 SEATED RV",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 4 SEATED",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 4 SEATED RV",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 4 SEATED",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 4 SEATED RV",
+                "price": 79900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 SEATED",
+                "price": 119900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 SEATED RV",
+                "price": 119900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 SEATED",
+                "price": 119900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 SEATED RV",
+                "price": 119900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 SEATED",
+                "price": 119900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 3 SEATED RV",
+                "price": 119900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 2 SEATED",
+                "price": 149900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 2 SEATED",
+                "price": 149900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 2 SEATED",
+                "price": 149900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 1 SEATED",
+                "price": 179900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 1 SEATED",
+                "price": 179900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "CAT 1 SEATED",
+                "price": 179900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "VIP L/ R *STANDING",
+                "price": 199900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "PLATINUM SEATED",
+                "price": 199900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "VIP L/ R *STANDING",
+                "price": 199900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "PLATINUM SEATED",
+                "price": 199900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "VIP L/ R *STANDING",
+                "price": 199900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            },
+            {
+                "title": "PLATINUM SEATED",
+                "price": 199900,
+                "symbol": "HKD",
+                "symbolUnit": "HKD/MOP"
+            }
+        ],
+        "ticketFlag": null,
+        "earliestSellStartTime": "2023-11-25 10:00:00",
+        "coSaleTime": "2023-11-25 10:00:00",
+        "eventSellEndTime": "2023-11-25 15:59:00",
+        "noticeInfo": null,
+        "memberSellStartTime": null,
+        "memberSellEndTime": null,
+        "platforms": [
+            "app",
+            "web",
+            "miniprogram"
+        ],
+        "detailInfoImg": "https://static.fantopia.io/ticketimg/dce85859-211a-4634-9ffa-eae16ba87d61.jpg",
+        "siteTimeZone": "+08:00",
+        "wxMiniImg": "https://static.fantopia.io/wxmini_qr/a59d3aaa-0ad1-4be9-b011-44eaa9aaaf40.png",
+        "needRealFlag": 0,
+        "popUpMsg": null,
+        "authType": 0
+    },
+    "traceId": "0d4a9f077868f52e"
+}

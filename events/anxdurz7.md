@@ -1,0 +1,31 @@
+```markdown
+- **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=anxdurz7
+- **演出活动名称**：2024 WayV CONCERT [ON THE Way] IN MACAU
+- **演出活动开始时间**：2025/02/15 19:30 (Local Time)
+- **演出活动地点**：澳門新濠影滙綜藝館 MACAU STUDIO CITY EVENT CENTER
+- **门票公开售票时间**：2024/11/23 12:00 (Local Time)
+- **门票会员优先售票时间**：2024/11/22 10:00-20:00 (Local Time)
+- **阵容**：WayV
+- **门票价格(未包含服务费)**：
+  - VIP SEATED|SOUND CHECK MOP$1888
+    - SOUND CHECK EXPERIENCE
+    - SOUND CHECK PASS + LANYARD
+  - PLATINUM MOP$1888
+  - GOLD RV MOP$1888
+    - ※随机抽取30名获得签名海报（不包含VIP购票者）
+  - A MOP$1488
+    - ※随机抽取10名获得签名拍立得
+  - B MOP$888
+- **门票类型**：电子票
+- **限购数量**：
+  - 会员预购：1张/ID
+  - 公开售票：4张/交易（含会员预购票）
+- **注意事项**：
+  - 所有票价为坐席（对号入座）
+  - 需提前注册票务网站会员才能购票
+  - 每张门票仅供一人入场
+  - 门票遗失/损坏不补发
+  - 仅接受动态电子票二维码入场（不接受打印/截图）
+  - 门票不设退换
+  - 同一会员ID超额购票可能被取消交易
+```

@@ -1,0 +1,34 @@
+```markdown
+- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=lk6a6g1o
+- **演出活动名称**: 2025 &TEAM CONCERT TOUR 'AWAKEN THE BLOODLINE' IN HONG KONG
+- **演出活动开始时间**: 2025/07/26 18:00 (SAT)
+- **演出活动地点**: AsiaWorld-Expo, Runway 11
+- **门票公开售票时间**: 2025/05/08 15:00 (Local time)
+- **阵容**: 
+  - &TEAM（隶属YX LABELS）
+  - 成员：EJ、FUMA、K、NICHOLAS、YUMA、JO、HARUA、TAKI、MAKI
+- **门票价格(未包含服务费)**:
+  - VVIP | HKD$1,888
+    - 含EXCLUSIVE SOUND CHECK EVENT
+    - LAMINATED & LANYARD
+    - PHOTOCARD SET (9张/套)
+  - VIP | HKD$1,488
+    - 随机PHOTOCARD (3张/9款)
+  - CAT1 | HKD$1,088
+  - CAT2 | HKD$788
+- **门票类型**: 实体票
+- **服务费**: HKD$30/张（寄送与线下取票同价）
+- **实体票寄送**:
+  - 演出前30天开始寄送
+  - 需提供准确地址和电话信息
+  - 可通过"Fantopia-我的门票"追踪寄送状态
+  - 中国大陆港澳之外购票者需留意后续换领通知
+- **限购数量**: 每人每交易限购4张
+- **年龄限制**: 3岁及以上（每人需持票入场）
+- **注意事项**:
+  - 无升高看台，对号入座
+  - 需提前注册票务网站会员
+  - 门票遗失/损坏不补发
+  - 需遵守场馆规定，违规可能被拒入场
+  - 门票不退不换
+```

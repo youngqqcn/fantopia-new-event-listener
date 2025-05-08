@@ -1,0 +1,27 @@
+```markdown
+- **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=ufhutnrz
+- **演出活动名称**：THE DREAM REBORN 世界巡迴演唱會 2024 香港站- DPR
+- **演出活动开始时间**：2024-12-22 19:00:00
+- **演出活动地点**：AXA x WONDERLAND (香港西九文化區安盛 x 竹翠公園)
+- **门票公开售票时间**: 2024-12-02 00:00:00
+- **阵容**：
+  - DPR IAN (創作型歌手)
+  - DPR CREAM (廠牌御用音樂製作人兼歌手)
+  - DPR ARTIC
+- **门票价格(未包含服务费)**：
+  - VIP | HKD$1,588
+    - 優先進場
+    - 優先購買商品
+    - VIP專屬掛繩及通行證
+    - MEET & GREET：問答環節 及 與 DPR ARTIC、DPR CREAM 和 DPR IAN 合照 (10:3)
+  - CAT1 | HKD$1,188
+  - CAT2 | HKD$988
+  - CAT3 | HKD$788
+  - *ALL STANDING 全場企位*
+- **限购数量**: 4張/每交易
+- **注意事项**：
+  - 請預先登記成為票務網站會員才可購票
+  - 每張門票只供一人進場
+  - 門票遺失/損毀不補發
+  - 售出門票不設退換
+```

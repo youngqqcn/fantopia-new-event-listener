@@ -1,0 +1,153 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "id": 349,
+        "title": "2025 张哲瀚「拾荒者」演唱会中国香港站",
+        "defaultTitle": null,
+        "type": 2,
+        "amount": 0,
+        "ossUrl": "https://static.fantopia.io/ticketimg/15aaa0af-b879-4700-8906-69c83c5ecfe9.jpg",
+        "ossUrlPc": "",
+        "ossUrlMini": "https://static.fantopia.io/ticketimg/0e6bb217-4eb0-4067-96d0-06dc754962ec.jpg",
+        "carousel": "https://static.fantopia.io/ticketimg/c17f2845-8811-40fa-9a4d-61a18155a62a.jpg",
+        "qrImg": "https://static.fantopia.io/ticketimg/6d8ebaef-e711-4ca6-be10-251e597f662e.png",
+        "qrLogo": "https://static.fantopia.io/ticketimg/41c5f99f-ab2f-4965-8f65-f7cf41e99666.png",
+        "qrLogoPhone": "https://static.fantopia.io/ticketimg/4138ffeb-d1c0-4127-826f-2b0439fbf561.png",
+        "multifileType": null,
+        "subPicture": null,
+        "status": 1,
+        "sellTimeStamp": 1743042600000,
+        "startTime": "2025-05-10 19:30:00",
+        "endTime": "2025-05-10 23:59:59",
+        "remark": null,
+        "limitCount": 6,
+        "memberLimitCount": 6,
+        "limitType": 1,
+        "createTimeStamp": 1742820463762,
+        "createTime": "2025-03-24 20:47:44",
+        "updateTime": "2025-03-25 20:01:26",
+        "showFlag": 1,
+        "showTicketBtn": 1,
+        "sortNo": 38,
+        "recommend": 0,
+        "description": "<p>来自白垩纪的拾荒者忽临未知星球</p>\r\n<p>由歌而生，生于残骸</p>\r\n<p>打碎庸常，重组想象</p>\r\n<p>拾尽狂欢，延烧舞台</p>\r\n<p><br></p>\r\n<p>「拾荒者」——2025年张哲瀚全新演唱会主题揭幕</p>\r\n<p><br></p>\r\n<p>時間: 2025/05/10 週六 7:30 PM</p>\r\n<p>地點: 安盛 x 竹翠公園 AXA X WONDERLAND</p>\r\n<p><br></p>\r\n<p>公開售票</p>\r\n<p>Date & Time: 2025/03/27 週四 10:30 CST</p>\r\n<p><br></p>\r\n<p><strong>票價</strong></p>\r\n<p>-VVIP HKD$ 3,510</p>\r\n<p>-家庭套票 HKD$ 4,880</p>\r\n<p>-CAT 1 HKD$ 1,980</p>\r\n<p>-CAT 2 HKD$ 1,680</p>\r\n<p>-CAT 3 HKD$ 1,480</p>\r\n<p>-CAT 4 HKD$ 980</p>\r\n<p>-CAT 5 HKD$ 580</p>\r\n<p><br></p>\r\n<p class=\"ql-align-center\"><img src=\"https://static.fantopia.io/ticketimg/e687e4d8-bb10-4625-bfff-7d6b9219d5ad.jpg\"></p>\r\n<p><br></p>\r\n<p class=\"ql-align-center\"><img src=\"https://static.fantopia.io/ticketimg/6965bf76-fdcd-409b-ad97-06c28ed730ec.jpg\"></p>\r\n<p><br></p>\r\n<p style=\"line-height: 2;font-size: 14px\">*购买【家庭套票】请务必填写准确地址，我们将在开演前把礼盒寄送到您填写的地址。</>\r\n<p style=\"line-height: 2;font-size: 14px\">*每人限購6張演唱會門票。</p>\r\n<p style=\"line-height: 2;font-size: 14px\">*座位區皆為劃位座席，請依票面座位號入座。</p>\r\n<p style=\"line-height: 2;font-size: 14px\">*每張門票只供一人進場。入場時必需持有有效門票。</p>\r\n<p style=\"line-height: 2;font-size: 14px\">*本次活動採用動態電子門票，入場時需登入 Fantopia 帳戶並出示電子門票二維碼。紙質打印或截圖的電子門票二維碼將無法入場</p>\r\n<p style=\"line-height: 2;font-size: 14px\">*售出門票不設退換。</p>",
+        "location": "安盛x竹翠公园, 西九文化区",
+        "defaultLocation": null,
+        "geoLatitude": null,
+        "geoLongtitude": null,
+        "version": null,
+        "contractInfoId": null,
+        "eventsKey": "zzhhk25",
+        "stubImg": "https://static.fantopia.io/ticketimg/b7942202-f30c-4071-a0f1-bd93bbabdeec.jpg",
+        "stubBackImg": "https://static.fantopia.io/ticketimg/245426a3-dc1a-4053-a5a3-85480b0bb146.jpg",
+        "shareImg": "https://static.fantopia.io/ticketimg/606be327-c6a9-434a-85e3-e5141addf43d.jpg",
+        "autoMint": 1,
+        "threshold": null,
+        "minPrice": 58000,
+        "maxPrice": 488000,
+        "symbol": "HKD",
+        "symbolUnit": "HKD",
+        "existMerch": false,
+        "themeId": null,
+        "memberPayCodeName": "Member Code",
+        "waitlistExecuteSwitch": 0,
+        "waitlistExecuteType": 1,
+        "waitlistOpenTime": 0,
+        "waitlistStopDate": null,
+        "extraPropertyMap": {
+            "entityId": "1"
+        },
+        "titleI18nMap": null,
+        "locationI18nMap": null,
+        "platformShowMap": null,
+        "sellLocationList": null,
+        "showStatus": 0,
+        "venueId": 11,
+        "eventsEntity": {
+            "id": 1,
+            "entityArea": "香港",
+            "entityName": "SINGULAR FLAME TECH (HK) LIMITED",
+            "entityEmail": "support@fantopia.io",
+            "entityPhone": null,
+            "entityAdress": "RM 413,4/F LUCKY CTR 165-171WAN CHAI RD WAN CHAI HK",
+            "remark": null
+        },
+        "shippingMode": null,
+        "shippingModeI18nMap": null,
+        "shippingTime": null,
+        "shippingTimeI18nMap": null,
+        "shippingInstructions": null,
+        "shippingInstructionsI18nMap": null,
+        "chooseSeatFlag": 0,
+        "ticketSimpleInfoVos": [
+            {
+                "title": "CAT 5",
+                "price": 58000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT 4",
+                "price": 98000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT 3",
+                "price": 148000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT 2",
+                "price": 168000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "WHEEL CHAIR",
+                "price": 168000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "CAT 1",
+                "price": 198000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "VVIP",
+                "price": 351000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            },
+            {
+                "title": "家庭套票",
+                "price": 488000,
+                "symbol": "HKD",
+                "symbolUnit": "HKD"
+            }
+        ],
+        "ticketFlag": null,
+        "earliestSellStartTime": "2025-03-27 10:30:00",
+        "coSaleTime": "2025-03-27 10:30:00",
+        "eventSellEndTime": "2025-05-10 19:00:00",
+        "noticeInfo": "<p>*购买【家庭套票】请务必填写准确地址，我们将在开演前把礼盒寄送到您填写的地址。</p><p>*每人限購6張演唱會門票。</p><p><br></p><p>*座位區皆為劃位座席，請依票面座位號入座。</p><p><br></p><p>*每張門票只供一人進場。入場時必需持有有效門票。</p><p><br></p><p>*本次活動採用動態電子門票，入場時需登入 Fantopia 帳戶並出示電子門票二維碼。紙質打印或截圖的電子門票二維碼將無法入場</p><p><br></p><p>*售出門票不設退換。</p>",
+        "memberSellStartTime": null,
+        "memberSellEndTime": null,
+        "platforms": [
+            "app",
+            "web",
+            "miniprogram"
+        ],
+        "detailInfoImg": "https://static.fantopia.io/ticketimg/ba51f397-0b02-42eb-8456-cb5b51cccdbb.jpg",
+        "siteTimeZone": "+08:00",
+        "wxMiniImg": "https://static.fantopia.io/wxmini_qr/48d00ca4-29c6-4eda-8799-ecc6d0880feb.png",
+        "needRealFlag": 0,
+        "popUpMsg": null,
+        "authType": 0
+    },
+    "traceId": "052abb577617d603"
+}
