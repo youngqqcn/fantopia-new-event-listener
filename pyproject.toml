@@ -9,6 +9,7 @@ dependencies = [
     "html2text>=2025.4.15",
     "lark-oapi>=1.4.15",
     "openai>=1.77.0",
+    "playwright>=1.52.0",
     "requests>=2.32.3",
     "schedule>=1.2.2",
 ]
