@@ -58,12 +58,12 @@ def get_event_info():
             method = captured_request.method
             url = captured_request.url
 
-            print(f"📨 正在复用请求 {method} {url}")
+            logging.info(f"📨 正在复用请求 {method} {url}")
             response = context.request.fetch(
                 url, method=method, headers=headers, data=post_data
             )
 
-            logging.info("🎯 响应状态:", response.status)
+            logging.info(f"🎯 响应状态: {response.status}")
             logging.info("=========")
             logging.info(json.dumps(response.json(), indent=4))
             open("response.json", "w").write(
@@ -82,7 +82,7 @@ def get_event_info():
                 route.continue_()
 
             for event in response.json()["data"]["records"]:
-                logging.info("活动 key:", event["eventsKey"])
+                logging.info(f"活动 key: {event["eventsKey"]}")
                 event_key = str(event["eventsKey"]).strip()
                 if os.path.exists(f"events/{event_key}.json") and os.path.exists(
                     f"events/{event_key}.md"
@@ -105,7 +105,7 @@ def get_event_info():
                         url, method=method, headers=headers, data=post_data
                     )
 
-                    logging.info("🎯 响应状态:", tmp_response.status)
+                    logging.info(f"🎯 响应状态: {tmp_response.status}")
 
                     logging.info("=========")
                     open(f"events/{event['eventsKey']}.json", "w").write(
@@ -232,7 +232,7 @@ def do_task():
             logging.info("update_event_info_gist 任务执行成功")
             break
         except Exception as e:
-            logging.error("❌ 更新 Gist 失败:", e)
+            logging.error(f"❌ 更新 Gist 失败: {e}")
             iTry += 1
             logging.info("重试中...")
             time.sleep(20)
@@ -240,6 +240,8 @@ def do_task():
 
 
 if __name__ == "__main__":
+
+    do_task()
 
     # 每天 9:30 和 19:00 执行任务
     schedule.every().day.at("09:30").do(do_task)
