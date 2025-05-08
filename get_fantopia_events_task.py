@@ -24,7 +24,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="[%(asctime)s] %(levelname)s: %(message)s",
     handlers=[
-        logging.FileHandler("task.log", encoding="utf-8"),  # 写入日志文件
+        # logging.FileHandler("task.log", encoding="utf-8"),  # 写入日志文件
         logging.StreamHandler(),  # 控制台输出
     ],
 )
@@ -244,6 +244,7 @@ if __name__ == "__main__":
     # 每天 9:30 和 19:00 执行任务
     schedule.every().day.at("09:30").do(do_task)
     schedule.every().day.at("19:00").do(do_task)
+    logging.info("===任务调度已启动===")
 
     while True:
         schedule.run_pending()
