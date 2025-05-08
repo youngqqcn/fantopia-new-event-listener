@@ -20,6 +20,7 @@ def call_deepseek(message_text: str) -> str:
             {"role": "user", "content": message_text},
         ],
         stream=False,
+        timeout=5*60,
     )
 
     output = response.choices[0].message.content
