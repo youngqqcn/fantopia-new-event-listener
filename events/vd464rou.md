@@ -1,5 +1,5 @@
 - **演出活动链接**：https://www.fantopia.io/events-tickets?eventsKey=vd464rou
-- **演出活动名称**："CHASE" Zhe Han Zhang Fan Meeting 2024 in MELBOURNE
+- **演出活动名称**：2024 「Chase·追」张哲瀚澳大利亚见面会
 - **演出活动开始时间**：2024-07-26 19:00:00
 - **演出活动地点**：Festival Hall Melbourne, West Melbourne, VIC
 - **门票公开售票时间**: 2024-03-18 11:00:00

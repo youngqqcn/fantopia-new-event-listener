@@ -1,5 +1,5 @@
 - **演出活动链接**：https://www.fantopia.io/events-tickets?eventsKey=gfmcaiqw
-- **演出活动名称**：Jeff Chang Ultimate Continuum World Tour Concert in Macau, Chinese New Year Special
+- **演出活动名称**：张信哲【未来式终极版】世界巡回演唱会 – 澳门站 春节限定场
 - **演出活动开始时间**：2025-02-01 19:30:00
 - **演出活动地点**：GALAXY ARENA
 - **门票公开售票时间**：2024-12-09 13:00:00

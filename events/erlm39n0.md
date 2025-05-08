@@ -1,0 +1,22 @@
+
+- **演出活动链接**： https://www.fantopia.io/events-tickets?eventsKey=erlm39n0
+- **演出活动名称**：SEVENTEEN EXHIBITION ‘FOLLOW FELLOW’ in Bangkok
+- **演出活动开始时间**：2024-09-15 00:00:00
+- **活动结束时间**：2024-10-15 23:59:59
+- **演出活动地点**：ICON Art & Culture Space, 8th floor, ICONSIAM 299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand
+- **门票公开售票时间**: 2024-10-06 00:00:00
+- **限购数量**: 5
+- **门票价格(THB)**:
+  - VIP | 2,500 THB (1 Entry Ticket + 13 Phototicket of each members / Limited quantity)
+  - GENERAL ADMISSION | 1,100 THB (1 Entry Ticket + 1 Random Phototicket)
+- **门票类型**: 实体票
+- **注意事项**:
+  - 展览门票也可在现场购买，但提前在线预订和购票的观众将优先入场。
+  - 官方观看时间为60分钟，商店参观时间为30分钟。
+  - 迟到超过30分钟可能会被拒绝入场。
+  - 除手机外，所有相机（如单反相机或摄像机）不得带入展览。
+  - 禁止使用闪光灯、三脚架或自拍杆拍照，以及出于商业目的的拍照或录音录像。
+  - 展览内所有付款只能通过信用卡、借记卡和PromptPay进行，不接受现金支付。
+  - 入场时可能需要身份验证，请携带有效身份证件。
+  - 只能在预订的时间段内入场，其他时间段将被拒绝入场。
+  - 禁止通过非官方指定票务零售商进行任何转让、代购、伪造或其他未经授权的行为。

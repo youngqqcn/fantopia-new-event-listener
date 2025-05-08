@@ -1,0 +1,11 @@
+- **演出活动链接**：https://www.fantopia.io/events-tickets?eventsKey=qe1gpygj
+- **演出活动名称**：Al Kisah Masdo Sepuloh Tahun
+- **演出活动开始时间**：2025-08-30 00:00:00
+- **演出活动地点**：Idea Live Arena KL @ 3 Damansara
+- **门票公开售票时间**：2025-05-05 12:00:00
+- **门票价格**：
+  - ROCKZONE (FREE STANDING) MYR 148
+  - CAT 1 (FREE SEATING) MYR 198
+- **限购数量**：10张/每账户
+- **其他信息**：
+  - 售出門票不設退換

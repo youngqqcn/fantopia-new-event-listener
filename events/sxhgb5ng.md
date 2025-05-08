@@ -1,0 +1,18 @@
+
+- **演出活动链接**: https://www.fantopia.io/events-tickets?eventsKey=sxhgb5ng
+- **演出活动名称**: 2025 NCT WISH ASIA TOUR LOG in MANILA
+- **演出活动开始时间**: 2025/04/12 18:00 (Local Time)
+- **演出活动地点**: New Frontier Theater, General Roxas Avenue, Cubao Quezon City, Philippines
+- **门票公开售票时间**: 2025/03/05 10:00 (Local Time)
+- **阵容**: NCT WISH (成员: SION, YUSHI, JAEHEE, RYO, SAKUYA, RIKU)
+- **门票价格**:
+  - SVIP SEATED | PHP 11,500 (HKD$1559)
+  - PLATINUM STANDING | PHP 8,500 (HKD$1159)
+  - LOGE | PHP 9,500 (HKD$1289)
+  - BALCONY | PHP 5,500 (HKD$759)
+- **门票类型**: 电子票（需演出当天现场兑换实体票）
+- **限购数量**: 每人每交易限购4张
+- **注意事项**:
+  - 需预先完成票务网站会员注册方可购票
+  - 门票遗失/损坏不补发不更换
+  - 门票不设退换
